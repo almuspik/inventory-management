@@ -2,6 +2,17 @@
 
 This is an Inventory Management System built with Python, using `pandas` for managing inventory data and `tkinter` for the graphical user interface (GUI). The system allows users to add, update, display, and remove items in the inventory, and it saves the data to an Excel file (`inventory.xlsx`).
 
+
+
+## Tools Used
+
+- **Python**: The programming language used to build the application.
+- **Tkinter**: A built-in Python library used for creating the graphical user interface (GUI).
+- **Pandas**: A powerful Python library for data manipulation and analysis, used here to manage and store the inventory data.
+- **Openpyxl**: A Python library for reading and writing Excel files, used for storing the inventory data in `.xlsx` format.
+
+
+
 ## Features
 
 - **Load Inventory**: Load inventory from an existing Excel file or create a new empty inventory.
